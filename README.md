@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaleyLee
+- 👋 Hi, I’m @LeslieWu
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning CS50
 
